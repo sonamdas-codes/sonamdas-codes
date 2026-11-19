@@ -1,82 +1,76 @@
 <div align="center">
 
-# ✦ SONAM DAS ✦
+# SONAM DAS
 
-### AI/ML Enthusiast | Aspiring Machine Learning Engineer
+**AI/ML Enthusiast · Aspiring Machine Learning Engineer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Exploring+AI+%26+Machine+Learning;Learning+%7C+Building+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B9BB4&center=true&vCenter=true&width=480&lines=Learning+Artificial+Intelligence;Exploring+Machine+Learning;Building+Skills+%26+Solving+Problems" />
+
+<br>
+
+`AI & ML` · `Python` · `DSA` · `SQL`
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+### About
 
-- 🎓 Student passionate about technology and innovation
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🐍 Learning Python and improving my programming skills
-- 🧩 Practicing Data Structures & Algorithms
-- 📊 Exploring SQL and data-driven solutions
-- 🚀 Turning ideas into code, one step at a time
+I'm a third-year Artificial Intelligence and Machine Learning student passionate about technology, problem-solving, and intelligent systems.
+
+Currently focused on strengthening my programming fundamentals, exploring machine learning concepts, and developing the skills needed to build practical, real-world solutions.
+
+- Exploring Artificial Intelligence & Machine Learning
+- Strengthening Python and programming fundamentals
+- Practicing Data Structures & Algorithms
+- Learning SQL and working with data
+- Continuously learning and improving through coding
 
 ---
 
-## ⚙️ Tech Stack & Tools
+### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+### Currently Learning
 
-```text
-Artificial Intelligence
-Machine Learning
-Python
-Data Structures & Algorithms
-SQL
-Problem Solving
-```
+- Machine Learning
+- Artificial Intelligence
+- Data Structures & Algorithms
+- Python
+- SQL
+- Problem Solving
 
 ---
 
-## 🎯 My Goals
-
-- Strengthen my programming fundamentals
-- Improve problem-solving skills
-- Explore real-world applications of AI & ML
-- Build meaningful projects
-- Grow as a developer
-
----
-
-## 📈 GitHub Overview
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonamdas-codes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonamdas-codes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9BB4&text_color=C9D1D9&icon_color=8B9BB4" width="48%" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+### Connect
 
-<p align="center">
+<p align="left">
   <a href="www.linkedin.com/in/sonamdas">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B9BB4?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/Sonamdas/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-8B9BB4?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-
-### ✨ Learn. Build. Improve. Repeat. ✨
-
-*Thanks for visiting my profile!*
+  
+  <sub>Learning consistently. Building thoughtfully. Growing continuously.</sub>
 
 </div>
