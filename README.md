@@ -1,76 +1,87 @@
 <div align="center">
 
-# SONAM DAS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=SONAM%20DAS&fontSize=55&fontColor=E6EDF3&fontAlignY=50&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descSize=14&descAlignY=75&descColor=8B9BB4" width="100%" />
 
-**AI/ML Enthusiast · Aspiring Machine Learning Engineer**
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=8B9BB4&center=true&vCenter=true&width=480&lines=Learning+Artificial+Intelligence;Exploring+Machine+Learning;Building+Skills+%26+Solving+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=550&lines=Aspiring+AI%2FML+Engineer;Turning+Curiosity+Into+Code;Learning.+Building.+Evolving." />
 
-<br>
+<br/>
 
-`AI & ML` · `Python` · `DSA` · `SQL`
+<a href="www.linkedin.com/in/sonamdas">LINKEDIN</a>
+&nbsp; • &nbsp;
+<a href="https://leetcode.com/u/Sonamdas/">LEETCODE</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/sonamdas-codes">GITHUB</a>
+
+</div>
+
+<br/>
+
+---
+
+## `01` &nbsp; ABOUT ME
+
+> Interested in intelligence. Driven by logic. Inspired by what technology can create.
+
+I'm a third-year Artificial Intelligence and Machine Learning student exploring the intersection of intelligent systems, data, and software development.
+
+Currently building a stronger foundation in programming, algorithms, and machine learning — with a focus on learning by doing, solving problems, and creating meaningful things with technology.
+
+- Artificial Intelligence & Machine Learning
+- Python & Programming Fundamentals
+- Data Structures & Algorithms
+- SQL & Data Management
+- Problem Solving & Continuous Learning
+
+---
+
+## `02` &nbsp; TECHNICAL ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-### About
+## `03` &nbsp; CURRENT FOCUS
 
-I'm a third-year Artificial Intelligence and Machine Learning student passionate about technology, problem-solving, and intelligent systems.
-
-Currently focused on strengthening my programming fundamentals, exploring machine learning concepts, and developing the skills needed to build practical, real-world solutions.
-
-- Exploring Artificial Intelligence & Machine Learning
-- Strengthening Python and programming fundamentals
-- Practicing Data Structures & Algorithms
-- Learning SQL and working with data
-- Continuously learning and improving through coding
+```text
+01 / Strengthening programming fundamentals
+02 / Exploring machine learning algorithms
+03 / Practicing DSA & problem solving
+04 / Learning data handling with SQL
+05 / Developing practical AI/ML projects
+```
 
 ---
 
-### Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,github,vscode&theme=dark" />
-</p>
-
----
-
-### Currently Learning
-
-- Machine Learning
-- Artificial Intelligence
-- Data Structures & Algorithms
-- Python
-- SQL
-- Problem Solving
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonamdas-codes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9BB4&text_color=C9D1D9&icon_color=8B9BB4" width="48%" />
-</p>
-
----
-
-### Connect
-
-<p align="left">
-  <a href="www.linkedin.com/in/sonamdas">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B9BB4?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Sonamdas/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-8B9BB4?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
+## `04` &nbsp; GITHUB ANALYTICS
 
 <div align="center">
-  
-  <sub>Learning consistently. Building thoughtfully. Growing continuously.</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sonamdas-codes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonamdas-codes&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" />
+
+</div>
+
+---
+
+## `05` &nbsp; PHILOSOPHY
+
+<div align="center">
+
+**Build quietly.**
+
+**Learn relentlessly.**
+
+**Let the work speak.**
+
+<br/>
+
+<sub>Designed with curiosity. Driven by progress.</sub>
 
 </div>
